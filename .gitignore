@@ -1,0 +1,8 @@
+.env
+node_modules
+# Firebase Admin SDK file
+utils/firebaseAdminSdk.json
+# Logs & Debug files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
